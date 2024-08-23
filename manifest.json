@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "CSS Debuggerzzzzz",
+	"description": "Tools for debugging CSS problems",
+	"version": "0.1",
+	"action": {
+		"default_popup": "extension.html",
+		"default_icon": "extension-icon.png"
+	}
+}
